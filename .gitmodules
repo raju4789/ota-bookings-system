@@ -1,0 +1,3 @@
+[submodule "ota-supplier"]
+	path = ota-supplier
+	url = https://github.com/raju4789/ota-supplier.git
